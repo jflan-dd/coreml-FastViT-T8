@@ -1,13 +1,12 @@
 ---
 tags:
 - image-classification
+library_name: coreml
 license: other
 datasets:
 - imagenet-1k
 ---
-# Model card for fastvit_t8.apple_in1k
-
-A FastViT image classification model. Trained on ImageNet-1k by paper authors.
+# FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization
 
 Please observe [original license](https://github.com/apple/ml-fastvit/blob/8af5928238cab99c45f64fc3e4e7b1516b8224ba/LICENSE).
 
@@ -22,3 +21,13 @@ Please observe [original license](https://github.com/apple/ml-fastvit/blob/8af59
   - FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization: https://arxiv.org/abs/2303.14189
 - **Original:** https://github.com/apple/ml-fastvit
 - **Dataset:** ImageNet-1k
+
+## Citation
+```bibtex
+@inproceedings{vasufastvit2023,
+  author = {Pavan Kumar Anasosalu Vasu and James Gabriel and Jeff Zhu and Oncel Tuzel and Anurag Ranjan},
+  title = {FastViT:  A Fast Hybrid Vision Transformer using Structural Reparameterization},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year = {2023}
+}
+```
