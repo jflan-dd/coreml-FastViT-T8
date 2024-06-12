@@ -3,6 +3,8 @@ tags:
 - image-classification
 library_name: coreml
 license: other
+license_name: apple-ascl
+license_link: LICENSE
 datasets:
 - imagenet-1k
 ---
