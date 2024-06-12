@@ -33,7 +33,7 @@ Please observe [original license](https://github.com/apple/ml-fastvit/blob/8af59
 
 
 
-## Evaluaition - Inference time
+## Evaluation - Inference time
 
 | Variant | Device               | OS   | Inference time (ms) | Dominant compute unit |
 | ------- | -------------------- | ---- | ------------------: | --------------------- |
