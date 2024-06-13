@@ -11,6 +11,10 @@ datasets:
 
 # FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization
 
+Image Classification.
+
+![Image Classification](FastViT_2x.png)
+
 Please observe [original license](https://github.com/apple/ml-fastvit/blob/8af5928238cab99c45f64fc3e4e7b1516b8224ba/LICENSE).
 
 ## Model Details
